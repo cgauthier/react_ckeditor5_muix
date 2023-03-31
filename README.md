@@ -1,7 +1,7 @@
 # React / CK Editor 5 / MUI-X Tree Grid Demo
 
 One of the frustrating aspect of CK Editor 5 is the way it handles it's editing area.
-This PoC demonstrates away to handle it so that when you resize the browser (vertically) it always syncs with the layout.
+This PoC demonstrates a way to handle it so that when you resize the browser (vertically) it always syncs with the layout.
 Also some quick event to load data in CK Editor 5
 Nothing fancy.
 

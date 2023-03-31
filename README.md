@@ -5,7 +5,7 @@ This PoC demonstrates away to handle it so that when you resize the browser (ver
 Also some quick event to load data in CK Editor 5
 Nothing fancy.
 
-
+Working demo found at: http://www.claudegauthier.net/demos/react_ckeditor5_muix/
 
 # Getting Started with Create React App
 

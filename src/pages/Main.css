@@ -1,0 +1,7 @@
+.Main {
+    margin: 20px;
+    background-color: #ffffff;
+    flex: 100%;
+    display: flex;
+    flex-direction: column;
+}

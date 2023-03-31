@@ -1,0 +1,6 @@
+.Container {
+    flex: 100%;
+    background-color: #00ffff;
+    margin: 0px 10px;
+    display: flex;
+}

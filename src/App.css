@@ -1,0 +1,10 @@
+.App {
+  height: inherit;
+  margin: 0px;
+  padding: 0px;
+  display: block;
+  border: 10px solid red;
+  display: flex;
+  flex-direction: row;
+}
+
